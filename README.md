@@ -82,7 +82,7 @@ StockVibe is a responsive web application designed for managing stock portfolios
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## Contact
-For any questions or feedback, please contact aggarwalkritik@gmail.com.
+For any questions or feedback, please contact krish.nimje2003@gmail.com.
 
 
 ### Additional Notes:
